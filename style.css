@@ -1,0 +1,37 @@
+body {
+    background: black;
+}
+
+.Dup{
+    color: white;
+}
+
+.Op {
+    color: red ;
+    font-size: 88px;
+    align-items: center;
+    font-family: Consolas, serif;
+}
+
+.conteinet{
+    width: 90%;
+    height: auto;
+
+}
+
+
+.text{
+    position: unset ;
+    color: lightsalmon ;
+    font-family: "Times New Roman";
+    margin: 0px;
+    width: 500px;
+    height: 200px ;
+}
+
+.LineBlue{
+    position: absolute;
+    width: 240px ;
+    height: 340px ;
+    color: floralwhite;
+}
